@@ -38,8 +38,8 @@
        
         // example:
         collectable.create(type.steve, 200, 170, 6, 0.7);
-        collectable.create(type.steve, 100, 130, 2, 1.5);
-        collectable.create(type.steve, 300, 160, 4, 2.8);
+        collectable.create(type.steve, 100, 240, 2, 0.7);
+        collectable.create(type.steve, 300, 130, 4, 0.7);
         
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
